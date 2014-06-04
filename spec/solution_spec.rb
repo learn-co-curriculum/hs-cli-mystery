@@ -23,7 +23,7 @@ end
 describe 'the murderer' do
 
   it "is..." do
-    my_solution = "Jeremy Bowers"
+    my_solution = "__"
     expect(my_solution).to be_the_murderer(/#{the_murderer}/i)
   end
 
