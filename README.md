@@ -62,6 +62,6 @@ To figure out whodunit, you need access to a command line.
 	$ open cheatsheet.md
 	```
 
-2. Don't use a text editor to view any files except for these instructions, the cheetsheet, hints, or `spec/solution_spec.rb`.
+2. Don't use a text editor to view any files except for these instructions, the cheatsheet, hints, or `spec/solution_spec.rb`.
 
 3. Once you think you have the solution, open up `spec/solution_spec.rb` and make the test pass by replacing the `__` with your solution as a string. 
