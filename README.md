@@ -1,7 +1,4 @@
----
-  tags: tutorial, command line, shell, beginner
-  languages: bash
----
+
 
 # The Command Line Murders
 
