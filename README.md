@@ -62,4 +62,4 @@ To figure out whodunit, you need access to a command line.
 2. Don't use a text editor to view any files except for these instructions, the cheatsheet, hints, or `spec/solution_spec.rb`.
 
 3. Once you think you have the solution, open up `spec/solution_spec.rb` and make the test pass by replacing the `__` with your solution as a string. 
-<a href='https://learn.co/lessons/hs-cli-mystery' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-cli-mystery' title='The Command Line Murders'>The Command Line Murders</a> on Learn.co and start learning to code for free.</p>
